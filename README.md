@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🌟 Welcome to My GitHub Repository! 🌟
 
 Hi there! I'm **Ajinkya Joglekar**, a passionate Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. 🚗🔧 I'm thrilled to share my journey and research in the cutting-edge realm of on-road and off-road Uncrewed Ground Vehicle systems (UGVs). 
