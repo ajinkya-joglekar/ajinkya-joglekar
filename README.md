@@ -8,7 +8,9 @@ My research focuses on developing scalable and adaptive frameworks for **data-dr
 🔍 **Key Highlights:**
 - **Hybrid Reinforcement Learning Controllers**: Adaptive data-driven implicit modeling for UGVs.
 - **Koopman Operator Theory**: Expanding the horizons of explainable data-driven modeling with analytical formulation of Koopman Operators for UGV.
-- **Project ***** (Coming Soon 😉)**: An innovative ecosystem for creating universal models from teleoperated data in challenging terrains, featuring a state-of-the-art kinodynamic planner and a robust path-tracking controller based on Multi-Model Parameterized Koopman framework!
+- **Project Varuna **: Project Varuna is an innovative framework grounded in my research on Koopman Operator Theory. This platform distills the insights and innovations from my work into a standalone package, empowering users to build explainable, data-driven models with just a few clicks, making advanced autonomy accessible to all. 
+Find out more at:
+[Project Varuna](https://www.project-varuna.com/)
 
 By blending these methodologies, I aim to enhance the intelligence and decision-making capabilities of autonomous vehicles, pushing their operational envelope even further in diverse and challenging conditions.
 
