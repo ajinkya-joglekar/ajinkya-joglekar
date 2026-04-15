@@ -1,9 +1,9 @@
 # 🌟 Welcome to My GitHub Repository! 🌟
 
-Hi there! I'm **Ajinkya Joglekar**, a passionate Ph.D. candidate at the prestigious **Clemson University's International Center for Automotive Research (ICAR)**, nestled in the vibrant city of Greenville, SC. I'm thrilled to share my journey and research in the cutting-edge realm of on-road and off-road Uncrewed Ground Vehicle systems (UGVs). 🚗 :robot:
+Hi there! I'm **Ajinkya Joglekar**, a **Senior Research Engineer** at **Texas A&M University**. I'm thrilled to share my journey and research in the cutting-edge realm of on-road and off-road Uncrewed Ground Vehicle systems (UGVs). 🚗 :robot:
 
 ## 🚀 About My Research:
-My research focuses on developing scalable and adaptive frameworks for **data-driven modeling, motion planning,** and **control of UGVs**. I'm on a mission to transform theoretical frameworks into practical ecosystems, addressing the challenges modern UGVs face in dangerous, uncertain terrains.
+My research focuses on developing scalable and adaptive frameworks for **data-driven modeling, motion planning,** and **control of UGVs/UAVs**. I'm on a mission to transform theoretical frameworks into practical ecosystems, addressing the challenges modern UGVs face in dangerous, uncertain terrains.
 
 🔍 **Key Highlights:**
 - **Hybrid Reinforcement Learning Controllers**: Adaptive data-driven implicit modeling for UGVs.
@@ -29,7 +29,7 @@ Feel free to explore my projects, provide feedback, or suggest collaborations. T
 
 📫 **Let's Connect:**
 
-- **Email:** [ajoglek@clemson.edu](mailto:ajoglek@clemson.edu)
+- **Email:** [ajoglek@tamu.edu](mailto:ajoglek@tamu.edu)
 - **ResearchGate:** [Ajinkya Joglekar](https://www.researchgate.net/profile/Ajinkya-Joglekar)
 - **LinkedIn:** [Ajinkya Joglekar](https://www.linkedin.com/in/ajinkyajoglekar/)
 
